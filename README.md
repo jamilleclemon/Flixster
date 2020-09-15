@@ -23,6 +23,8 @@
 `TODO://` `https://github.com/jamilleclemon/Flixster/blob/master/Flixsterpt2.gif` & `https://github.com/jamilleclemon/Flixster/blob/master/Flixsterpt3.gif`. 
 
 <img src="Flixsterpt2.gif" width=250><br>
+<img src="Flixsterpt3.gif" width=250><br>
+
 
 ### Notes
 
